@@ -1,0 +1,8 @@
+/* style-sheet for The Odin Project Foundations css exercise 1, css methods */
+div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
