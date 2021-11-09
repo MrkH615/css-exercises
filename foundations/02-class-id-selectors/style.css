@@ -1,0 +1,19 @@
+.pink-para {
+    background-color: #ffa3d2;
+    font-family: 'Verdana', sans-serif;
+}
+
+.large {
+    font-size: 24px;
+}
+
+#xlarge-blue {
+    color: #00f;
+    font-size: 36px;
+}
+
+#big-green {
+    background-color: #09ff00;
+    font-size: 24px;
+    font-weight: 600;
+}
