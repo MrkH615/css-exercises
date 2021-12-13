@@ -48,6 +48,13 @@ body {
   justify-content: center;
 }
 
+.header-container {
+  display: flex;
+  align-content: space-between;
+  width: 100%;
+  border: solid goldenrod 5px;
+}
+
 button {
   padding: 8px 16px;
   border-radius: 8px;
