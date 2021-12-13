@@ -11,7 +11,7 @@ img {
   font-size: 36px;
   font-weight: 900;
   display: flex;
-  justify-self: center;
+  justify-content: center;
   margin-bottom: 32px;
 }
 
