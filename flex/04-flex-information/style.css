@@ -17,9 +17,6 @@ img {
 
 .information {
   display: flex;
-  /*align-items: center;*/
-  /*border: 5px goldenrod solid;*/
-  /*height: 50vh;*/
   flex-wrap: wrap;
   justify-content: center;
   column-gap: 52px;
@@ -32,7 +29,7 @@ img {
   max-width: 200px;
   justify-content: center;
   text-align: center;
-  /*border: 5px solid seagreen;*/
+
 }
 
 /* do not edit this footer */
