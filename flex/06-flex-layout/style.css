@@ -25,3 +25,24 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+
+ul {
+  list-style: none;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.header, .footer {
+  display: flex;
+  justify-content: space-between;
+  width: 98vw;
+}
+
+.left-links, .right-links {
+  display: flex;
+  justify-items: space-between;
+}
