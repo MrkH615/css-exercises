@@ -16,6 +16,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 8px;
 }
 
 input {
@@ -34,6 +35,10 @@ li {
   margin: 5px;
 }
 
+a {
+  text-decoration: none;
+  color: black;
+}
 
 
 .container {
@@ -56,7 +61,6 @@ li {
 .header, .footer {
   display: flex;
   justify-content: space-between;
-  width: 98vw;
 }
 
 .left-links, .right-links {
